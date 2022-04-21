@@ -1,0 +1,2 @@
+all:
+	g++ -IC:\Users\Administrator\Desktop\Quang\software\SDL2-2.0.20\x86_64-w64-mingw32\include -LC:\Users\Administrator\Desktop\Quang\software\SDL2-2.0.20\x86_64-w64-mingw32\lib -o main main.cpp -lmingw32 -lSDL2main -lSDL2
